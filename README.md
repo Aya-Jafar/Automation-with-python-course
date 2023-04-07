@@ -1,5 +1,6 @@
 # Automation-with-python-course
 files solution for Google Automation course with python 
+This course is part of the Google IT Automation with Python Professional Certificate (https://www.coursera.org/professional-certificates/google-it-automation)
 
 "
 There are 5 modules in this course
