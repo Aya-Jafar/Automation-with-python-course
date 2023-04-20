@@ -1,0 +1,1182 @@
+[
+  {
+    "id": 326,
+    "car": { "car_make": "Isuzu", "car_model": "Ascender", "car_year": 2004 },
+    "price": "$19954.89",
+    "total_sales": 765
+  },
+  {
+    "id": 327,
+    "car": { "car_make": "GMC", "car_model": "Savana 2500", "car_year": 2006 },
+    "price": "$8894.18",
+    "total_sales": 366
+  },
+  {
+    "id": 328,
+    "car": {
+      "car_make": "Audi",
+      "car_model": "5000CS Quattro",
+      "car_year": 1986
+    },
+    "price": "$18443.29",
+    "total_sales": 366
+  },
+  {
+    "id": 329,
+    "car": { "car_make": "Dodge", "car_model": "Ramcharger", "car_year": 1992 },
+    "price": "$18607.16",
+    "total_sales": 979
+  },
+  {
+    "id": 330,
+    "car": { "car_make": "Scion", "car_model": "tC", "car_year": 2008 },
+    "price": "$7055.94",
+    "total_sales": 346
+  },
+  {
+    "id": 331,
+    "car": { "car_make": "Toyota", "car_model": "Paseo", "car_year": 1993 },
+    "price": "$9094.05",
+    "total_sales": 299
+  },
+  {
+    "id": 332,
+    "car": { "car_make": "Chevrolet", "car_model": "Astro", "car_year": 2001 },
+    "price": "$18977.20",
+    "total_sales": 851
+  },
+  {
+    "id": 333,
+    "car": { "car_make": "GMC", "car_model": "Savana 3500", "car_year": 2008 },
+    "price": "$18434.50",
+    "total_sales": 182
+  },
+  {
+    "id": 334,
+    "car": { "car_make": "Nissan", "car_model": "Sentra", "car_year": 1993 },
+    "price": "$18831.62",
+    "total_sales": 969
+  },
+  {
+    "id": 335,
+    "car": { "car_make": "Subaru", "car_model": "Outback", "car_year": 2007 },
+    "price": "$10218.90",
+    "total_sales": 337
+  },
+  {
+    "id": 336,
+    "car": { "car_make": "Nissan", "car_model": "Xterra", "car_year": 2012 },
+    "price": "$19123.86",
+    "total_sales": 524
+  },
+  {
+    "id": 337,
+    "car": { "car_make": "Lincoln", "car_model": "MKZ", "car_year": 2008 },
+    "price": "$16643.90",
+    "total_sales": 477
+  },
+  {
+    "id": 338,
+    "car": { "car_make": "Volvo", "car_model": "C70", "car_year": 1998 },
+    "price": "$12533.76",
+    "total_sales": 582
+  },
+  {
+    "id": 339,
+    "car": { "car_make": "Lexus", "car_model": "SC", "car_year": 1992 },
+    "price": "$17716.03",
+    "total_sales": 235
+  },
+  {
+    "id": 340,
+    "car": { "car_make": "Lotus", "car_model": "Esprit", "car_year": 1987 },
+    "price": "$15998.13",
+    "total_sales": 177
+  },
+  {
+    "id": 341,
+    "car": {
+      "car_make": "Chevrolet",
+      "car_model": "Bel Air",
+      "car_year": 1967
+    },
+    "price": "$5022.35",
+    "total_sales": 997
+  },
+  {
+    "id": 342,
+    "car": {
+      "car_make": "Bentley",
+      "car_model": "Continental GT",
+      "car_year": 2007
+    },
+    "price": "$14628.28",
+    "total_sales": 1135
+  },
+  {
+    "id": 343,
+    "car": { "car_make": "Pontiac", "car_model": "LeMans", "car_year": 1992 },
+    "price": "$11297.81",
+    "total_sales": 890
+  },
+  {
+    "id": 344,
+    "car": {
+      "car_make": "Cadillac",
+      "car_model": "Fleetwood",
+      "car_year": 1995
+    },
+    "price": "$9357.04",
+    "total_sales": 943
+  },
+  {
+    "id": 345,
+    "car": { "car_make": "Pontiac", "car_model": "Grand Am", "car_year": 2003 },
+    "price": "$9619.43",
+    "total_sales": 655
+  },
+  {
+    "id": 346,
+    "car": { "car_make": "Saab", "car_model": "9-3", "car_year": 2007 },
+    "price": "$17765.01",
+    "total_sales": 202
+  },
+  {
+    "id": 347,
+    "car": {
+      "car_make": "Chrysler",
+      "car_model": "PT Cruiser",
+      "car_year": 2002
+    },
+    "price": "$19746.52",
+    "total_sales": 851
+  },
+  {
+    "id": 348,
+    "car": { "car_make": "Lincoln", "car_model": "MKT", "car_year": 2013 },
+    "price": "$17510.58",
+    "total_sales": 536
+  },
+  {
+    "id": 349,
+    "car": {
+      "car_make": "Mitsubishi",
+      "car_model": "Pajero",
+      "car_year": 1993
+    },
+    "price": "$18548.02",
+    "total_sales": 418
+  },
+  {
+    "id": 350,
+    "car": {
+      "car_make": "MINI",
+      "car_model": "Cooper Clubman",
+      "car_year": 2011
+    },
+    "price": "$6680.41",
+    "total_sales": 301
+  },
+  {
+    "id": 351,
+    "car": { "car_make": "Mazda", "car_model": "MX-3", "car_year": 1996 },
+    "price": "$14759.69",
+    "total_sales": 230
+  },
+  {
+    "id": 352,
+    "car": { "car_make": "Audi", "car_model": "riolet", "car_year": 1996 },
+    "price": "$13011.41",
+    "total_sales": 611
+  },
+  {
+    "id": 353,
+    "car": {
+      "car_make": "Chevrolet",
+      "car_model": "Corvette",
+      "car_year": 1998
+    },
+    "price": "$9975.80",
+    "total_sales": 569
+  },
+  {
+    "id": 354,
+    "car": { "car_make": "Nissan", "car_model": "Sentra", "car_year": 2009 },
+    "price": "$8792.77",
+    "total_sales": 1126
+  },
+  {
+    "id": 355,
+    "car": {
+      "car_make": "Chevrolet",
+      "car_model": "Equinox",
+      "car_year": 2007
+    },
+    "price": "$18112.00",
+    "total_sales": 1138
+  },
+  {
+    "id": 356,
+    "car": {
+      "car_make": "Pontiac",
+      "car_model": "Grand Prix",
+      "car_year": 1983
+    },
+    "price": "$5377.72",
+    "total_sales": 289
+  },
+  {
+    "id": 357,
+    "car": { "car_make": "Kia", "car_model": "Optima", "car_year": 2001 },
+    "price": "$14181.25",
+    "total_sales": 500
+  },
+  {
+    "id": 358,
+    "car": { "car_make": "Hyundai", "car_model": "Sonata", "car_year": 1992 },
+    "price": "$17854.95",
+    "total_sales": 993
+  },
+  {
+    "id": 359,
+    "car": {
+      "car_make": "Mercedes-Benz",
+      "car_model": "E-Class",
+      "car_year": 1998
+    },
+    "price": "$18612.91",
+    "total_sales": 528
+  },
+  {
+    "id": 360,
+    "car": { "car_make": "Volvo", "car_model": "V50", "car_year": 2010 },
+    "price": "$5446.83",
+    "total_sales": 1021
+  },
+  {
+    "id": 361,
+    "car": { "car_make": "Ford", "car_model": "Thunderbird", "car_year": 1985 },
+    "price": "$16817.73",
+    "total_sales": 1057
+  },
+  {
+    "id": 362,
+    "car": {
+      "car_make": "Dodge",
+      "car_model": "Viper RT/10",
+      "car_year": 1995
+    },
+    "price": "$9330.50",
+    "total_sales": 569
+  },
+  {
+    "id": 363,
+    "car": { "car_make": "Scion", "car_model": "tC", "car_year": 2009 },
+    "price": "$10101.56",
+    "total_sales": 238
+  },
+  {
+    "id": 364,
+    "car": {
+      "car_make": "Mercury",
+      "car_model": "Mountaineer",
+      "car_year": 1999
+    },
+    "price": "$18756.86",
+    "total_sales": 187
+  },
+  {
+    "id": 365,
+    "car": { "car_make": "Ford", "car_model": "Taurus", "car_year": 2011 },
+    "price": "$7068.83",
+    "total_sales": 923
+  },
+  {
+    "id": 366,
+    "car": { "car_make": "Toyota", "car_model": "Tundra", "car_year": 2009 },
+    "price": "$16326.78",
+    "total_sales": 874
+  },
+  {
+    "id": 367,
+    "car": { "car_make": "Mazda", "car_model": "MX-5", "car_year": 2011 },
+    "price": "$12461.76",
+    "total_sales": 745
+  },
+  {
+    "id": 368,
+    "car": { "car_make": "Nissan", "car_model": "Sentra", "car_year": 2009 },
+    "price": "$5756.50",
+    "total_sales": 793
+  },
+  {
+    "id": 369,
+    "car": { "car_make": "Toyota", "car_model": "Tundra", "car_year": 2011 },
+    "price": "$7309.54",
+    "total_sales": 525
+  },
+  {
+    "id": 370,
+    "car": { "car_make": "Toyota", "car_model": "RAV4", "car_year": 2003 },
+    "price": "$17249.57",
+    "total_sales": 119
+  },
+  {
+    "id": 371,
+    "car": {
+      "car_make": "Lamborghini",
+      "car_model": "Diablo",
+      "car_year": 1996
+    },
+    "price": "$15667.21",
+    "total_sales": 525
+  },
+  {
+    "id": 372,
+    "car": { "car_make": "Mercury", "car_model": "Mariner", "car_year": 2005 },
+    "price": "$14782.67",
+    "total_sales": 482
+  },
+  {
+    "id": 373,
+    "car": { "car_make": "Volvo", "car_model": "V70", "car_year": 2003 },
+    "price": "$15767.91",
+    "total_sales": 248
+  },
+  {
+    "id": 374,
+    "car": { "car_make": "Suzuki", "car_model": "Swift", "car_year": 1990 },
+    "price": "$8948.23",
+    "total_sales": 855
+  },
+  {
+    "id": 375,
+    "car": {
+      "car_make": "Mitsubishi",
+      "car_model": "Galant",
+      "car_year": 2007
+    },
+    "price": "$12747.60",
+    "total_sales": 701
+  },
+  {
+    "id": 376,
+    "car": { "car_make": "GMC", "car_model": "Yukon", "car_year": 2010 },
+    "price": "$17246.76",
+    "total_sales": 1181
+  },
+  {
+    "id": 377,
+    "car": { "car_make": "Dodge", "car_model": "Dynasty", "car_year": 1992 },
+    "price": "$6456.19",
+    "total_sales": 896
+  },
+  {
+    "id": 378,
+    "car": { "car_make": "Volvo", "car_model": "940", "car_year": 1995 },
+    "price": "$6439.41",
+    "total_sales": 425
+  },
+  {
+    "id": 379,
+    "car": { "car_make": "Lexus", "car_model": "SC", "car_year": 2005 },
+    "price": "$8676.07",
+    "total_sales": 914
+  },
+  {
+    "id": 380,
+    "car": {
+      "car_make": "Mercedes-Benz",
+      "car_model": "500SL",
+      "car_year": 1992
+    },
+    "price": "$16144.61",
+    "total_sales": 483
+  },
+  {
+    "id": 381,
+    "car": { "car_make": "Audi", "car_model": "A6", "car_year": 2008 },
+    "price": "$8558.08",
+    "total_sales": 252
+  },
+  {
+    "id": 382,
+    "car": { "car_make": "BMW", "car_model": "X6", "car_year": 2009 },
+    "price": "$10317.07",
+    "total_sales": 614
+  },
+  {
+    "id": 383,
+    "car": {
+      "car_make": "Ford",
+      "car_model": "Crown Victoria",
+      "car_year": 1997
+    },
+    "price": "$9439.36",
+    "total_sales": 457
+  },
+  {
+    "id": 384,
+    "car": {
+      "car_make": "Mercedes-Benz",
+      "car_model": "SLS-Class",
+      "car_year": 2011
+    },
+    "price": "$18044.75",
+    "total_sales": 96
+  },
+  {
+    "id": 385,
+    "car": {
+      "car_make": "Lamborghini",
+      "car_model": "Diablo",
+      "car_year": 1994
+    },
+    "price": "$6078.01",
+    "total_sales": 332
+  },
+  {
+    "id": 386,
+    "car": { "car_make": "Buick", "car_model": "LaCrosse", "car_year": 2006 },
+    "price": "$19966.15",
+    "total_sales": 984
+  },
+  {
+    "id": 387,
+    "car": { "car_make": "Mazda", "car_model": "Tribute", "car_year": 2005 },
+    "price": "$13939.31",
+    "total_sales": 488
+  },
+  {
+    "id": 388,
+    "car": { "car_make": "Volvo", "car_model": "S60", "car_year": 2001 },
+    "price": "$10499.38",
+    "total_sales": 594
+  },
+  {
+    "id": 389,
+    "car": { "car_make": "Mazda", "car_model": "B-Series", "car_year": 2003 },
+    "price": "$6854.66",
+    "total_sales": 607
+  },
+  {
+    "id": 390,
+    "car": { "car_make": "Lexus", "car_model": "RX", "car_year": 2005 },
+    "price": "$14840.74",
+    "total_sales": 1018
+  },
+  {
+    "id": 391,
+    "car": { "car_make": "Ford", "car_model": "Focus", "car_year": 2013 },
+    "price": "$17659.20",
+    "total_sales": 613
+  },
+  {
+    "id": 392,
+    "car": { "car_make": "Kia", "car_model": "Optima", "car_year": 2004 },
+    "price": "$9543.04",
+    "total_sales": 585
+  },
+  {
+    "id": 393,
+    "car": { "car_make": "Hyundai", "car_model": "Tucson", "car_year": 2011 },
+    "price": "$5104.19",
+    "total_sales": 388
+  },
+  {
+    "id": 394,
+    "car": { "car_make": "Porsche", "car_model": "911", "car_year": 2010 },
+    "price": "$17385.36",
+    "total_sales": 1111
+  },
+  {
+    "id": 395,
+    "car": {
+      "car_make": "Volkswagen",
+      "car_model": "Passat",
+      "car_year": 2006
+    },
+    "price": "$9223.42",
+    "total_sales": 527
+  },
+  {
+    "id": 396,
+    "car": { "car_make": "Subaru", "car_model": "Outback", "car_year": 2001 },
+    "price": "$17381.84",
+    "total_sales": 252
+  },
+  {
+    "id": 397,
+    "car": { "car_make": "GMC", "car_model": "Savana 3500", "car_year": 2005 },
+    "price": "$19756.43",
+    "total_sales": 750
+  },
+  {
+    "id": 398,
+    "car": { "car_make": "Oldsmobile", "car_model": "88", "car_year": 1997 },
+    "price": "$5467.36",
+    "total_sales": 859
+  },
+  {
+    "id": 399,
+    "car": { "car_make": "BMW", "car_model": "330", "car_year": 2005 },
+    "price": "$11294.61",
+    "total_sales": 815
+  },
+  {
+    "id": 400,
+    "car": { "car_make": "Lexus", "car_model": "SC", "car_year": 1993 },
+    "price": "$9099.30",
+    "total_sales": 808
+  },
+  {
+    "id": 401,
+    "car": { "car_make": "Mazda", "car_model": "B-Series", "car_year": 2009 },
+    "price": "$15492.73",
+    "total_sales": 1109
+  },
+  {
+    "id": 402,
+    "car": {
+      "car_make": "Pontiac",
+      "car_model": "Bonneville",
+      "car_year": 2000
+    },
+    "price": "$8585.19",
+    "total_sales": 872
+  },
+  {
+    "id": 403,
+    "car": { "car_make": "Ford", "car_model": "Bronco", "car_year": 1987 },
+    "price": "$16278.45",
+    "total_sales": 596
+  },
+  {
+    "id": 404,
+    "car": { "car_make": "Ford", "car_model": "F350", "car_year": 2004 },
+    "price": "$10604.62",
+    "total_sales": 666
+  },
+  {
+    "id": 405,
+    "car": { "car_make": "Ford", "car_model": "Flex", "car_year": 2013 },
+    "price": "$19092.87",
+    "total_sales": 847
+  },
+  {
+    "id": 406,
+    "car": {
+      "car_make": "Mercury",
+      "car_model": "Mountaineer",
+      "car_year": 2001
+    },
+    "price": "$12889.74",
+    "total_sales": 903
+  },
+  {
+    "id": 407,
+    "car": {
+      "car_make": "Ford",
+      "car_model": "E-350 Super Duty",
+      "car_year": 2006
+    },
+    "price": "$17281.50",
+    "total_sales": 1040
+  },
+  {
+    "id": 408,
+    "car": {
+      "car_make": "Chevrolet",
+      "car_model": "Express 1500",
+      "car_year": 1999
+    },
+    "price": "$12360.30",
+    "total_sales": 670
+  },
+  {
+    "id": 409,
+    "car": {
+      "car_make": "GMC",
+      "car_model": "Rally Wagon 1500",
+      "car_year": 1993
+    },
+    "price": "$6348.70",
+    "total_sales": 645
+  },
+  {
+    "id": 410,
+    "car": { "car_make": "Nissan", "car_model": "Altima", "car_year": 2010 },
+    "price": "$6369.78",
+    "total_sales": 557
+  },
+  {
+    "id": 411,
+    "car": {
+      "car_make": "Maserati",
+      "car_model": "Gran Sport",
+      "car_year": 2006
+    },
+    "price": "$15406.31",
+    "total_sales": 533
+  },
+  {
+    "id": 412,
+    "car": { "car_make": "Pontiac", "car_model": "6000", "car_year": 1991 },
+    "price": "$13771.88",
+    "total_sales": 280
+  },
+  {
+    "id": 413,
+    "car": {
+      "car_make": "Oldsmobile",
+      "car_model": "Silhouette",
+      "car_year": 1997
+    },
+    "price": "$16266.76",
+    "total_sales": 590
+  },
+  {
+    "id": 414,
+    "car": {
+      "car_make": "Mazda",
+      "car_model": "B-Series Plus",
+      "car_year": 1996
+    },
+    "price": "$13937.62",
+    "total_sales": 907
+  },
+  {
+    "id": 415,
+    "car": {
+      "car_make": "Chevrolet",
+      "car_model": "Silverado 3500",
+      "car_year": 2011
+    },
+    "price": "$18876.45",
+    "total_sales": 199
+  },
+  {
+    "id": 416,
+    "car": { "car_make": "Ford", "car_model": "Escort", "car_year": 1992 },
+    "price": "$6255.18",
+    "total_sales": 366
+  },
+  {
+    "id": 417,
+    "car": { "car_make": "BMW", "car_model": "M3", "car_year": 1996 },
+    "price": "$11462.23",
+    "total_sales": 852
+  },
+  {
+    "id": 418,
+    "car": {
+      "car_make": "Lamborghini",
+      "car_model": "Murciélago",
+      "car_year": 2007
+    },
+    "price": "$11811.38",
+    "total_sales": 701
+  },
+  {
+    "id": 419,
+    "car": { "car_make": "Ford", "car_model": "E-Series", "car_year": 2012 },
+    "price": "$14774.48",
+    "total_sales": 829
+  },
+  {
+    "id": 420,
+    "car": {
+      "car_make": "Ford",
+      "car_model": "F-Series Super Duty",
+      "car_year": 2012
+    },
+    "price": "$9666.29",
+    "total_sales": 272
+  },
+  {
+    "id": 421,
+    "car": {
+      "car_make": "Maserati",
+      "car_model": "Quattroporte",
+      "car_year": 2010
+    },
+    "price": "$8102.36",
+    "total_sales": 519
+  },
+  {
+    "id": 422,
+    "car": { "car_make": "BMW", "car_model": "525", "car_year": 2001 },
+    "price": "$6480.47",
+    "total_sales": 562
+  },
+  {
+    "id": 423,
+    "car": { "car_make": "Cadillac", "car_model": "CTS", "car_year": 2011 },
+    "price": "$9672.86",
+    "total_sales": 1158
+  },
+  {
+    "id": 424,
+    "car": { "car_make": "Honda", "car_model": "Civic", "car_year": 1988 },
+    "price": "$15968.83",
+    "total_sales": 240
+  },
+  {
+    "id": 425,
+    "car": { "car_make": "GMC", "car_model": "Savana", "car_year": 2006 },
+    "price": "$10324.71",
+    "total_sales": 611
+  },
+  {
+    "id": 426,
+    "car": { "car_make": "Audi", "car_model": "S6", "car_year": 2008 },
+    "price": "$16802.56",
+    "total_sales": 812
+  },
+  {
+    "id": 427,
+    "car": {
+      "car_make": "Mercedes-Benz",
+      "car_model": "S-Class",
+      "car_year": 1998
+    },
+    "price": "$16836.80",
+    "total_sales": 841
+  },
+  {
+    "id": 428,
+    "car": {
+      "car_make": "Mercury",
+      "car_model": "Mountaineer",
+      "car_year": 1998
+    },
+    "price": "$9431.55",
+    "total_sales": 802
+  },
+  {
+    "id": 429,
+    "car": { "car_make": "GMC", "car_model": "Sierra 3500", "car_year": 2011 },
+    "price": "$19000.84",
+    "total_sales": 768
+  },
+  {
+    "id": 430,
+    "car": { "car_make": "Toyota", "car_model": "Camry", "car_year": 2012 },
+    "price": "$9299.99",
+    "total_sales": 284
+  },
+  {
+    "id": 431,
+    "car": { "car_make": "Infiniti", "car_model": "I", "car_year": 1996 },
+    "price": "$6515.10",
+    "total_sales": 1048
+  },
+  {
+    "id": 432,
+    "car": {
+      "car_make": "Lincoln",
+      "car_model": "Continental",
+      "car_year": 2000
+    },
+    "price": "$10411.94",
+    "total_sales": 1123
+  },
+  {
+    "id": 433,
+    "car": {
+      "car_make": "Chevrolet",
+      "car_model": "Cavalier",
+      "car_year": 2003
+    },
+    "price": "$16736.23",
+    "total_sales": 817
+  },
+  {
+    "id": 434,
+    "car": { "car_make": "Audi", "car_model": "TT", "car_year": 2008 },
+    "price": "$19704.80",
+    "total_sales": 984
+  },
+  {
+    "id": 435,
+    "car": { "car_make": "Saturn", "car_model": "Ion", "car_year": 2004 },
+    "price": "$6070.69",
+    "total_sales": 587
+  },
+  {
+    "id": 436,
+    "car": { "car_make": "Saturn", "car_model": "Aura", "car_year": 2008 },
+    "price": "$11345.12",
+    "total_sales": 707
+  },
+  {
+    "id": 437,
+    "car": { "car_make": "Ford", "car_model": "F150", "car_year": 2001 },
+    "price": "$16936.91",
+    "total_sales": 338
+  },
+  {
+    "id": 438,
+    "car": {
+      "car_make": "Lamborghini",
+      "car_model": "Diablo",
+      "car_year": 1999
+    },
+    "price": "$7853.75",
+    "total_sales": 80
+  },
+  {
+    "id": 439,
+    "car": { "car_make": "Audi", "car_model": "80", "car_year": 1990 },
+    "price": "$14768.17",
+    "total_sales": 828
+  },
+  {
+    "id": 440,
+    "car": {
+      "car_make": "Jeep",
+      "car_model": "Grand Cherokee",
+      "car_year": 2006
+    },
+    "price": "$7811.62",
+    "total_sales": 133
+  },
+  {
+    "id": 441,
+    "car": {
+      "car_make": "Mercedes-Benz",
+      "car_model": "C-Class",
+      "car_year": 2007
+    },
+    "price": "$14701.04",
+    "total_sales": 867
+  },
+  {
+    "id": 442,
+    "car": { "car_make": "Dodge", "car_model": "Ram 3500", "car_year": 2007 },
+    "price": "$7763.67",
+    "total_sales": 319
+  },
+  {
+    "id": 443,
+    "car": { "car_make": "Plymouth", "car_model": "Breeze", "car_year": 1998 },
+    "price": "$8752.34",
+    "total_sales": 729
+  },
+  {
+    "id": 444,
+    "car": { "car_make": "Lincoln", "car_model": "MKZ", "car_year": 2011 },
+    "price": "$13790.10",
+    "total_sales": 1002
+  },
+  {
+    "id": 445,
+    "car": { "car_make": "Toyota", "car_model": "Avalon", "car_year": 2011 },
+    "price": "$14578.95",
+    "total_sales": 574
+  },
+  {
+    "id": 446,
+    "car": {
+      "car_make": "Pontiac",
+      "car_model": "Bonneville",
+      "car_year": 1967
+    },
+    "price": "$17217.24",
+    "total_sales": 585
+  },
+  {
+    "id": 447,
+    "car": { "car_make": "Ford", "car_model": "Explorer", "car_year": 1999 },
+    "price": "$5571.35",
+    "total_sales": 1062
+  },
+  {
+    "id": 448,
+    "car": { "car_make": "Lotus", "car_model": "Esprit", "car_year": 1994 },
+    "price": "$18603.39",
+    "total_sales": 318
+  },
+  {
+    "id": 449,
+    "car": {
+      "car_make": "GMC",
+      "car_model": "Suburban 1500",
+      "car_year": 1996
+    },
+    "price": "$17283.65",
+    "total_sales": 812
+  },
+  {
+    "id": 450,
+    "car": { "car_make": "Jaguar", "car_model": "XJ", "car_year": 2006 },
+    "price": "$9260.86",
+    "total_sales": 727
+  },
+  {
+    "id": 451,
+    "car": { "car_make": "Lexus", "car_model": "GS", "car_year": 2010 },
+    "price": "$5747.54",
+    "total_sales": 322
+  },
+  {
+    "id": 452,
+    "car": {
+      "car_make": "Mitsubishi",
+      "car_model": "Pajero",
+      "car_year": 1985
+    },
+    "price": "$7217.33",
+    "total_sales": 968
+  },
+  {
+    "id": 453,
+    "car": { "car_make": "Acura", "car_model": "TL", "car_year": 2008 },
+    "price": "$11090.58",
+    "total_sales": 210
+  },
+  {
+    "id": 454,
+    "car": { "car_make": "Chevrolet", "car_model": "Malibu", "car_year": 2002 },
+    "price": "$11319.96",
+    "total_sales": 818
+  },
+  {
+    "id": 455,
+    "car": {
+      "car_make": "Mitsubishi",
+      "car_model": "Pajero",
+      "car_year": 2000
+    },
+    "price": "$5556.00",
+    "total_sales": 177
+  },
+  {
+    "id": 456,
+    "car": {
+      "car_make": "Lamborghini",
+      "car_model": "Murciélago",
+      "car_year": 2007
+    },
+    "price": "$17861.35",
+    "total_sales": 407
+  },
+  {
+    "id": 457,
+    "car": {
+      "car_make": "Land Rover",
+      "car_model": "Freelander",
+      "car_year": 2002
+    },
+    "price": "$9544.24",
+    "total_sales": 582
+  },
+  {
+    "id": 458,
+    "car": { "car_make": "Saab", "car_model": "900", "car_year": 1987 },
+    "price": "$7236.77",
+    "total_sales": 1183
+  },
+  {
+    "id": 459,
+    "car": {
+      "car_make": "Chevrolet",
+      "car_model": "Tracker",
+      "car_year": 1998
+    },
+    "price": "$11220.27",
+    "total_sales": 465
+  },
+  {
+    "id": 460,
+    "car": {
+      "car_make": "Dodge",
+      "car_model": "Ram Van 1500",
+      "car_year": 1996
+    },
+    "price": "$18465.63",
+    "total_sales": 884
+  },
+  {
+    "id": 461,
+    "car": { "car_make": "Volkswagen", "car_model": "Eos", "car_year": 2012 },
+    "price": "$7172.35",
+    "total_sales": 557
+  },
+  {
+    "id": 462,
+    "car": { "car_make": "Acura", "car_model": "Integra", "car_year": 1995 },
+    "price": "$18731.76",
+    "total_sales": 1192
+  },
+  {
+    "id": 463,
+    "car": { "car_make": "Dodge", "car_model": "Ram 3500", "car_year": 2000 },
+    "price": "$19918.94",
+    "total_sales": 932
+  },
+  {
+    "id": 464,
+    "car": {
+      "car_make": "Pontiac",
+      "car_model": "Bonneville",
+      "car_year": 1968
+    },
+    "price": "$18678.21",
+    "total_sales": 234
+  },
+  {
+    "id": 465,
+    "car": { "car_make": "Chevrolet", "car_model": "Impala", "car_year": 2005 },
+    "price": "$17343.63",
+    "total_sales": 273
+  },
+  {
+    "id": 466,
+    "car": {
+      "car_make": "Plymouth",
+      "car_model": "Grand Voyager",
+      "car_year": 1995
+    },
+    "price": "$19058.98",
+    "total_sales": 352
+  },
+  {
+    "id": 467,
+    "car": {
+      "car_make": "Studebaker",
+      "car_model": "Avanti",
+      "car_year": 1963
+    },
+    "price": "$5764.77",
+    "total_sales": 768
+  },
+  {
+    "id": 468,
+    "car": { "car_make": "Ford", "car_model": "Mustang", "car_year": 2006 },
+    "price": "$19320.10",
+    "total_sales": 908
+  },
+  {
+    "id": 469,
+    "car": { "car_make": "GMC", "car_model": "Savana 1500", "car_year": 2004 },
+    "price": "$10197.70",
+    "total_sales": 722
+  },
+  {
+    "id": 470,
+    "car": { "car_make": "Volvo", "car_model": "V90", "car_year": 1997 },
+    "price": "$5116.26",
+    "total_sales": 281
+  },
+  {
+    "id": 471,
+    "car": { "car_make": "Saab", "car_model": "9-7X", "car_year": 2005 },
+    "price": "$11976.24",
+    "total_sales": 266
+  },
+  {
+    "id": 472,
+    "car": {
+      "car_make": "Chevrolet",
+      "car_model": "Suburban 1500",
+      "car_year": 1997
+    },
+    "price": "$17757.32",
+    "total_sales": 269
+  },
+  {
+    "id": 473,
+    "car": {
+      "car_make": "Rolls-Royce",
+      "car_model": "Ghost",
+      "car_year": 2010
+    },
+    "price": "$13394.00",
+    "total_sales": 404
+  },
+  {
+    "id": 474,
+    "car": { "car_make": "Buick", "car_model": "LeSabre", "car_year": 2001 },
+    "price": "$19223.41",
+    "total_sales": 366
+  },
+  {
+    "id": 475,
+    "car": {
+      "car_make": "Chevrolet",
+      "car_model": "Suburban 2500",
+      "car_year": 1998
+    },
+    "price": "$13813.76",
+    "total_sales": 580
+  },
+  {
+    "id": 476,
+    "car": {
+      "car_make": "Pontiac",
+      "car_model": "Grand Prix Turbo",
+      "car_year": 1990
+    },
+    "price": "$14360.52",
+    "total_sales": 757
+  },
+  {
+    "id": 477,
+    "car": { "car_make": "Audi", "car_model": "S4", "car_year": 2006 },
+    "price": "$8316.54",
+    "total_sales": 601
+  },
+  {
+    "id": 478,
+    "car": { "car_make": "Porsche", "car_model": "928", "car_year": 1993 },
+    "price": "$16837.22",
+    "total_sales": 289
+  },
+  {
+    "id": 479,
+    "car": { "car_make": "Pontiac", "car_model": "Firebird", "car_year": 1985 },
+    "price": "$14466.92",
+    "total_sales": 392
+  },
+  {
+    "id": 480,
+    "car": { "car_make": "Audi", "car_model": "S4", "car_year": 1993 },
+    "price": "$6954.95",
+    "total_sales": 257
+  },
+  {
+    "id": 481,
+    "car": { "car_make": "Chevrolet", "car_model": "Tahoe", "car_year": 1999 },
+    "price": "$19261.01",
+    "total_sales": 334
+  },
+  {
+    "id": 482,
+    "car": { "car_make": "Nissan", "car_model": "Murano", "car_year": 2012 },
+    "price": "$19701.93",
+    "total_sales": 624
+  },
+  {
+    "id": 483,
+    "car": {
+      "car_make": "Pontiac",
+      "car_model": "Grand Prix",
+      "car_year": 1989
+    },
+    "price": "$18793.51",
+    "total_sales": 986
+  },
+  {
+    "id": 484,
+    "car": { "car_make": "Audi", "car_model": "A8", "car_year": 2010 },
+    "price": "$6605.02",
+    "total_sales": 294
+  },
+  {
+    "id": 485,
+    "car": { "car_make": "Hyundai", "car_model": "Sonata", "car_year": 2008 },
+    "price": "$12011.32",
+    "total_sales": 1189
+  }
+]
